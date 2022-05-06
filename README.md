@@ -15,4 +15,4 @@ Github API
 
 ## Live Demo
 
-[Live Demo](https://github-finder-fawn.vercel.app/)]
+[Live Demo](https://github-finder-fawn.vercel.app/)
